@@ -1,0 +1,13 @@
+Trainer :- Manikanta Reddy
+Students:- 1. Ujwala
+           2. Mounika
+	   3. Manohar Reddy
+	   4. Madan Mohan Shaik
+	   5. Ashok Garlapati
+	   6. Balakishore
+	   7. Nagababu
+	   8. Nagaraju
+	   9. Ashok Kumar
+	   10.Venkateshwar Reddy
+	   11.Suresh
+
